@@ -1,0 +1,30 @@
+/* Navigation Bar */
+
+.AG-top{
+    position:fixed;
+    width:100%;
+    z-index:1
+    }
+.AG-top{
+    top:0
+    }
+
+.AG-bar{
+    width:100%;
+
+    overflow:hidden;
+    margin-top: 50px;
+    }
+
+.A3-bar{
+    display:inline-block;
+    width:auto
+}
+.AG-bar .AG-bar-item{padding:8px 16px;float:left;width:auto;border:none;display:block;outline:0}
+.AG-bar .AG-dropdown-hover,.AG-bar .AG-dropdown-click{position:static;float:left}
+.AG-bar .AG-button{white-space:normal}
+
+
+
+
+.AG-pink,.AG-hover-pink:hover{color:#fff!important;background-color: #f4145a !important}
